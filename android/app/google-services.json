@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "688060703285",
+    "firebase_url": "https://vnvnvn-23924.firebaseio.com",
+    "project_id": "vnvnvn-23924",
+    "storage_bucket": "vnvnvn-23924.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688060703285:android:6f1ae1cc22c9054312877c",
+        "android_client_info": {
+          "package_name": "co.priyam.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688060703285-p688njaeik3o25qo0osog5rmren3s88c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJxkbMLHrwSiNz8h8iYI557yb8YdUns6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688060703285-p688njaeik3o25qo0osog5rmren3s88c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
